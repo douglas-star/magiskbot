@@ -36,6 +36,7 @@
     "bots": "^0.0.7",
     "busybox": "^2019.8.21",
     "copilot": "^0.5.1",
+    "discord": "^0.8.2",
     "fastify": "^4.25.1",
     "github": "^14.0.0",
     "github-bot": "^0.0.0",

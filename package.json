@@ -32,7 +32,14 @@
     "@octokit/rest": "^20.0.2",
     "@octokit/types": "^12.4.0",
     "@octokit/webhooks": "^12.0.10",
-    "fastify": "^4.25.1"
+    "automation": "^0.0.0",
+    "bots": "^0.0.7",
+    "busybox": "^2019.8.21",
+    "copilot": "^0.5.1",
+    "fastify": "^4.25.1",
+    "github-bot": "^0.0.0",
+    "magisk": "^1.0.0",
+    "npm": "^10.8.1"
   },
   "prettier": {
     "singleQuote": true
